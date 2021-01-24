@@ -1,0 +1,3 @@
+def function(x,y):
+	suma = x + y
+	return suma
